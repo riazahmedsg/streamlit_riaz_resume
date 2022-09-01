@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import streamlit.components.v1 as components
 # from streamlit_timeline import timeline
-# from streamlit_timeline import timeline
+from streamlit_timeline import timeline
 import plotly.graph_objects as go
 from ds_steps import *
 from prfdata import *
@@ -56,12 +56,12 @@ st.sidebar.write('📧: riazahmedsg@iconixvav.com')
 # txt = st.text_area('Text to analyze', value='It was the best of times')
 
 #st.balloons()
-# st.title('My Journey of Data Science - Timelines: :hibiscus:')
+st.title('My Journey of Data Science - Timelines: :hibiscus:')
 
 # Timeline commented
-# with open('timeline.json', "r") as f:
-#     data = f.read()
-# timeline(data, height=500)
+with open('timeline.json', "r") as f:
+    data = f.read()
+timeline(data, height=500)
 
 # 
 st.title('Technical Skills and Tools: ')
