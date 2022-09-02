@@ -30,7 +30,7 @@ height=160)
 st.write('#### Coming soon: :hibiscus:')
 st.write('#### YouTube Channel (Data Science using Python, FileMaker), Streamlit Apps !!')
 
-url = "https://www.linkedin.com/in/nusrat-riaz-21744a85/"
+url = "https://www.linkedin.com/in/riazahmedsg/"
 st.sidebar.markdown("## [Linkedin Profile](%s)" % url)
 
 # Download Resume Button
