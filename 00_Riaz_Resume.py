@@ -1,6 +1,6 @@
 # from plotly.express import timeline
 import streamlit as st
-import pandas as pd
+# import pandas as pd
 import streamlit.components.v1 as components
 # from streamlit_timeline import timeline
 from streamlit_timeline import timeline
@@ -22,7 +22,7 @@ st.write('#### Riaz Ahmed')
 
 
 components.html('''
-<h2 align="justify" style="font-weight:normal"> Motivated Data Scientist skilled in 1) Data Analysis & Predictive Data Analysis (using ML algorithms), 2) Python data analysis libraries (Pandas, Numpy, Plotly, Matplotlib, etc.), 3) Jupyter Notebook 4) Python Streamlit (to Develop shareable web apps in minutes), 5) Claris FileMaker Rapid Application Development, 6) SQL & Data Modeling, 7) Agile Software Development, 8) Software Prototyping & StoryBoarding, 9) UML & BPMN, 10) Software Testing & Quality Assurance </h2>
+<h2 align="justify" style="font-weight:normal"> Motivated Data Scientist skilled in 1) Data Analysis & Predictive Data Analysis (using ML algorithms), 2) Python data analysis libraries (Pandas, Numpy, Plotly, Matplotlib, etc.), 3) Jupyter Notebook 4) Streamlit (to Develop shareable web apps in minutes), 5) Claris FileMaker Rapid Application Development, 6) SQL & Data Modeling, 7) Agile Software Development, 8) Software Prototyping & StoryBoarding, 9) UML & BPMN, 10) Software Testing & Quality Assurance </h2>
 ''',
 height=160)
 
@@ -56,6 +56,20 @@ st.sidebar.write('📧: riazahmedsg@iconixvav.com')
 # txt = st.text_area('Text to analyze', value='It was the best of times')
 
 #st.balloons()
+# Display Data Science Pyramid
+col1, col2, col3 = st.columns([1,4,1])
+
+with col1:
+    pass
+
+with col2:
+    st.header("Data Science / Data Analysis Pyramid")
+    st.image("pyramid.jpg")
+
+with col3:
+    pass
+# 
+
 st.title('My Journey of Data Science - Timelines: :hibiscus:')
 
 # Timeline commented
@@ -69,8 +83,9 @@ with st.expander("Click + to expand: ", expanded = False):
     components.html('''
     <h3 align="justify" style="font-weight:normal">
     <ol>
-    <li>Predictive Data Analysis - Python, Pandas, Matplotlib, Numpy, etc.</li>
-    <li>Python Programming for Data Science</li>
+    <li>Data Analysis - Python, Pandas, Matplotlib, Numpy, etc.</li>
+    <li>Machine Learning Algorithms <i>Scikit-Learn</i> and <i>TensorFlow</i></li>
+    <li>Python-Streamlit (to Develop shareable web apps in minutes)</li>
     <li>FileMaker RAD Development (FileMaker Rel. 12 - 19) -- (7+ Years)</li>
     <li>Software Quality Analyst (Software Testing, <br>Software Quality Assurance) - 15+ Years</li>
     <li>Database Development (SQL, ERD) - 10 Yrs </li>
