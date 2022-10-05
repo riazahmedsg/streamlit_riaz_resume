@@ -22,7 +22,7 @@ st.write('#### Riaz Ahmed')
 
 
 components.html('''
-<h2 align="justify" style="font-weight:normal"> Motivated Data Scientist skilled in 1) Data Analysis & Predictive Data Analysis (using <b>Machine Learning algorithms</b>), 2) Python data analysis libraries (Pandas, Numpy, Plotly, Matplotlib, etc.), 3) Jupyter Notebook 4) Streamlit (to Develop shareable web apps in minutes), 5) Claris FileMaker Rapid Application Development, 6) SQL & Data Modeling, 7) Agile Software Development, 8) Software Prototyping & StoryBoarding, 9) UML & BPMN, 10) Software Testing & Quality Assurance, 10) Health Care Domain, 11) Health Informatics Domain </h2>
+<h2 align="justify" style="font-weight:normal"> Motivated Data Scientist skilled in 1) Data Analysis & Predictive Data Analysis (using <b>Machine Learning algorithms</b>), 2) Python data analysis libraries (Pandas, Numpy, Plotly, Matplotlib, etc.), 3) Jupyter Notebook 4) Streamlit (to Develop shareable web apps in minutes), 5) Claris FileMaker Rapid Application Development, 6) SQL & Data Modeling, 7) Agile Software Development, 8) Software Prototyping & StoryBoarding, 9) UML & BPMN, 10) Software Testing & Quality Assurance, 11) Health Care Domain, 12) Health Informatics Domain </h2>
 ''',
 height=220)
 
