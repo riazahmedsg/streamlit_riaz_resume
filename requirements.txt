@@ -1,4 +1,4 @@
-pandas==1.4.3
+pandas==1.5.3
 streamlit==1.18.0
 graphviz==0.20
 plotly==5.9.0
