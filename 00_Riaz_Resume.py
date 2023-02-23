@@ -40,7 +40,7 @@ st.sidebar.markdown("## [Linkedin Profile](%s)" % url)
 resume = "https://docs.google.com/document/d/1k2JGHInYY8nxvJFTrFKJOM-YOTHyFu_TJ1QT-M1Iw34/edit?usp=sharing"
 st.sidebar.markdown("## [Download Riaz Resume](%s)" % resume)
 
-ml_apps = "https://streamlit1-penguins.herokuapp.com/"
+ml_apps = "https://riazahmedsg-streamlit2-streamlit-app-809dok.streamlit.app/"
 st.sidebar.markdown("## [Sample ML App](%s)" % ml_apps)
 
 # ml_apps = "https://docs.google.com/document/d/1D_9FuECYE1s91LZQtvaCR-r8_Dra80gbiCdIy2efwyc/edit?usp=sharing"
