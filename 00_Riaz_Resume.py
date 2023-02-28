@@ -83,7 +83,7 @@ with st.expander("Click + to expand: ", expanded = False):
     components.html('''
     <h3 align="justify" style="font-weight:normal">
     <ol>
-    <li>Data Analysis - Python, Pandas, Matplotlib, Numpy, etc.</li>
+    <li>Data Analysis - Pandas, Numpy, Plotly, Scikit-learn, Seaborn, etc.</li>
     <li>Machine Learning Algorithms <i>Scikit-Learn</i> and <i>TensorFlow</i></li>
     <li>Python-Streamlit (to Develop shareable web apps in minutes)</li>
     <li>FileMaker RAD Development (FileMaker Rel. 12 - 19) -- (7+ Years)</li>
