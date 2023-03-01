@@ -24,7 +24,7 @@ st.write('#### Riaz Ahmed')
 components.html('''
 <h2 align="justify" style="font-weight:normal"> Motivated Python Developer & Data Scientist skilled in 1) Data Analysis & Predictive Data Analysis (using <b>Machine Learning algorithms</b>), 2) Python data analysis libraries (Pandas, Numpy, Plotly, Scikit-learn, TensorFlow, Seaborn, Altair, Bokeh, Pyplot, Graphviz, etc.), 3) <b>Tools:</b> PyCharm, Jupyter Notebook, JupyterLab, SageMaker Studio Lab, Google Colab, 4) Streamlit (to Develop shareable web apps in minutes), 5) Claris FileMaker Rapid Application Development, 6) SQL & Data Modeling, 7) Agile Software Development, 8) Software Prototyping & StoryBoarding, 9) UML & BPMN, 10) Software Testing & Quality Assurance, 11) Health Care Domain, 12) Health Informatics Domain, 13) Business Apps Domain </h2>
 ''',
-height=235)
+height=240)
 
 
 st.write('#### Coming soon: :hibiscus:')
