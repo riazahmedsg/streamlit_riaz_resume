@@ -29,8 +29,8 @@ height=240)
 url = "https://www.youtube.com/channel/UCBaBsBYBbDaWThVQDvf2eIQ"
 st.write("###  [Visit Data Science youtube channel]({})".format(url))
 
-st.write('#### Coming soon: :hibiscus:')
-st.write('#### YouTube Channel (Data Science using Python, FileMaker), Streamlit Apps !!')
+# st.write('#### Coming soon: :hibiscus:')
+# st.write('#### YouTube Channel (Data Science using Python, FileMaker), Streamlit Apps !!')
 
 url = "https://www.linkedin.com/in/riazahmedsg/"
 st.sidebar.markdown("## [Linkedin Profile](%s)" % url)
