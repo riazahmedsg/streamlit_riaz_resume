@@ -16,8 +16,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.tile('Profile Summary')
-st.write('#### Riaz Ahmed')
+st.title('Riaz Ahmed - Profile Summary')
 st.write('#### Objective:  Remote / Hybrid opportunities in Data Science (using Python, Machine Learning)')
 
 
