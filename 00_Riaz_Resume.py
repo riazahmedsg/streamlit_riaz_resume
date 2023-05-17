@@ -17,8 +17,7 @@ st.set_page_config(
 )
 
 
-st.title('Objective:  Remote / Hybrid opportunities in Data Science (using Python, Machine Learning)'
-st.title('Profile Summary')
+st.write('#### Objective:  Remote / Hybrid opportunities in Data Science (using Python, Machine Learning)'
 st.write('#### Riaz Ahmed')
 
 
