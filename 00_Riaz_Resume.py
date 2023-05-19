@@ -44,6 +44,9 @@ st.sidebar.markdown("## [Linkedin Profile](%s)" % url)
 resume = "https://docs.google.com/document/d/1k2JGHInYY8nxvJFTrFKJOM-YOTHyFu_TJ1QT-M1Iw34/edit?usp=sharing"
 st.sidebar.markdown("## [Download Riaz Resume](%s)" % resume)
 
+transcript = "https://drive.google.com/file/d/1cvJSC4KTuNYRtYty3MzVSlz8X4KMcyts/view?usp=sharing"
+st.sidebar.markdown("## [Download Transcript](%s)" % transcript)
+
 ml_apps = "https://riazahmedsg-streamlit2-streamlit-app-809dok.streamlit.app/"
 st.sidebar.markdown("## [Sample ML App](%s)" % ml_apps)
 
