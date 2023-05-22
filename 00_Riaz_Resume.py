@@ -38,10 +38,12 @@ url = "https://www.linkedin.com/in/riazahmedsg/"
 st.sidebar.markdown("## [Linkedin Profile](%s)" % url)
 
 # Download Resume Button
-# pdfFileObj = open('Riaz Ahmed Resume.pdf', 'rb')
-# st.sidebar.download_button('Download Resume',pdfFileObj,file_name='Riaz Ahmed Resume.pdf',mime='pdf')
+pdfFileObj = open('Riaz Ahmed Resume.pdf', 'rb')
+st.sidebar.download_button('Download Resume',pdfFileObj,file_name='Riaz Ahmed Resume.pdf',mime='pdf')
+resume = "https://drive.google.com/file/d/1UvxwPY_lMnMNzmF_EmHxIi0RJep8W5ob/view?usp=sharing"
 
-resume = "https://docs.google.com/document/d/1k2JGHInYY8nxvJFTrFKJOM-YOTHyFu_TJ1QT-M1Iw34/edit?usp=sharing"
+
+# resume = "https://docs.google.com/document/d/1k2JGHInYY8nxvJFTrFKJOM-YOTHyFu_TJ1QT-M1Iw34/edit?usp=sharing"
 st.sidebar.markdown("## [Download My Resume](%s)" % resume)
 
 transcript = "https://drive.google.com/file/d/1cvJSC4KTuNYRtYty3MzVSlz8X4KMcyts/view?usp=sharing"
