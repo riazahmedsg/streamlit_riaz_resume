@@ -43,8 +43,9 @@ st.sidebar.markdown("## [Linkedin Profile](%s)" % url)
 # resume = "https://drive.google.com/file/d/1UvxwPY_lMnMNzmF_EmHxIi0RJep8W5ob/view?usp=sharing"
 
 
-resume = "https://docs.google.com/document/d/1k2JGHInYY8nxvJFTrFKJOM-YOTHyFu_TJ1QT-M1Iw34/edit?usp=sharing"
-st.sidebar.markdown("## [Download My Resume](%s)" % resume)
+# resume = "https://docs.google.com/document/d/1k2JGHInYY8nxvJFTrFKJOM-YOTHyFu_TJ1QT-M1Iw34/edit?usp=sharing"
+resume = "https://drive.google.com/file/d/1UvxwPY_lMnMNzmF_EmHxIi0RJep8W5ob/view?usp=sharing"
+st.sidebar.markdown("## [Download Resume](%s)" % resume)
 
 transcript = "https://drive.google.com/file/d/1cvJSC4KTuNYRtYty3MzVSlz8X4KMcyts/view?usp=sharing"
 st.sidebar.markdown("## [Download Transcript](%s)" % transcript)
