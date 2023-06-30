@@ -73,8 +73,8 @@ with col1:
     pass
 
 with col2:
-    st.header("Data Science / Data Analysis Pyramid")
-    st.image("pyramid.jpg")
+    st.header("Data Science / Data Analysis Wheel")
+    st.image("DS-Wheel.jpg")
 
 with col3:
     pass
