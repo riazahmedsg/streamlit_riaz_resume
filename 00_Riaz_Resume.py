@@ -69,11 +69,24 @@ st.sidebar.write('📧: riazahmedsg@iconixvav.com')
 # Display Data Science Pyramid
 col1, col2, col3 = st.columns([1,4,1])
 
+# Data Science Wheel
 with col1:
     pass
 
 with col2:
     st.header("Data Science / Data Analysis Wheel:")
+    st.image("DS-Wheel.jpg")
+
+with col3:
+    pass
+# 
+
+# Machine Learning Pipeline
+with col1:
+    pass
+
+with col2:
+    st.header("Machine Learning Pipeline:")
     st.image("DS-Wheel.jpg")
 
 with col3:
