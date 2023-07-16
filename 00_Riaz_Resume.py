@@ -87,7 +87,7 @@ with col1:
 
 with col2:
     st.header("Machine Learning Pipeline:")
-    st.image("DS-Wheel.jpg")
+    st.image("mlpipeline.png")
 
 with col3:
     pass
