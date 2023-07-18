@@ -57,7 +57,7 @@ st.sidebar.markdown("## [Sample ML App](%s)" % ml_apps)
 
 # st.sidebar.markdown('1. First item \n2. Second item \n3. Third item')
 # Test
-st.sidebar.write('### Wish to Connect')
+st.sidebar.write('### Wish to Connect:')
 # st.sidebar.caption('Wish to connect?')
 st.sidebar.write('📧: riazahmedsg@iconixvav.com')
 # pdfFileObj = open('FileMaker Resume - Riaz Ahmed.pdf', 'rb')
