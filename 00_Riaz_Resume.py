@@ -17,14 +17,14 @@ st.set_page_config(
 )
 
 st.title('Riaz Ahmed - Resume')
-st.write('#### Objective:  Remote / Hybrid opportunities in Data Science (using Python, Machine Learning) solutions developemnt & training')
+st.write('#### Objective:  Software Solution Developer & Trainer in Data Science (using Python, Machine Learning) - Open to Remote / Hybrid opportunities 
 
 st.header('Profile Summary:')
 
 
 
 components.html('''
-<h2 align="justify" style="font-weight:normal"> Motivated Python Developer (Full stack) & Data Scientist (Python) skilled in 1) Data Analysis & Predictive Data Analysis (using <b>Machine Learning algorithms</b>), 2) Python Data Analysis libraries (Pandas, Numpy, Plotly, Scikit-learn, TensorFlow, Seaborn, Altair, Bokeh, Pyplot, Graphviz, etc.), 3) <b>Tools:</b> ChatGPT, PyCharm, Jupyter Notebook, JupyterLab, SageMaker Studio Lab, Google Colab, 4) Streamlit (to Develop shareable web apps in minutes), 5) Claris FileMaker Rapid Application Development, 6) SQL & Data Modeling, 7) Agile Software Development, 8) Software Prototyping & StoryBoarding, 9) UML & BPMN, 10) Software Testing & Quality Assurance, 11) Domain Knowledge: a) Health Care, b) Health Informatics c) Business Apps 12) Familar with R</h2>
+<h2 align="justify" style="font-weight:normal"> Motivated Python Developer (Full stack - Using Anvil Python ) & Data Scientist (Python & ML) skilled in 1) Data Analysis & Predictive Data Analysis (using <b>Machine Learning algorithms</b>), 2) Python Data Analysis libraries (Pandas, Numpy, Plotly, Scikit-learn, TensorFlow, Seaborn, Altair, Bokeh, Pyplot, Graphviz, etc.), 3) <b>Tools:</b> ChatGPT, PyCharm, Jupyter Notebook, JupyterLab, SageMaker Studio Lab, Google Colab, 4) Streamlit (to Develop shareable web apps in minutes), 5) Claris FileMaker Rapid Application Development, 6) SQL & Data Modeling, 7) Agile Software Development, 8) Software Prototyping & StoryBoarding, 9) UML & BPMN, 10) Software Testing & Quality Assurance, 11) Domain Knowledge: a) Health Care, b) Health Informatics c) Business Apps 12) Familar with R</h2>
 ''',
 height=310)
 
