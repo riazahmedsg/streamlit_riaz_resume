@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 st.title('Riaz Ahmed - Resume')
-st.write('#### Objective:  Software Solution Developer & Trainer in Data Science (using Python, Machine Learning) - Open to Remote / Hybrid opportunities')
+st.write('#### Objective:  Software Solution Developer & Trainer in Data Science (using Python, Machine Learning) and Full Stack Python Development (Using Anvil Python) - Open to Remote / Hybrid opportunities')
 
 st.header('Profile Summary:')
 
