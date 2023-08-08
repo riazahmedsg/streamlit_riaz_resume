@@ -74,7 +74,7 @@ with col1:
     pass
 
 with col2:
-    st.header("Data Science / Data Analysis Wheel:")
+    st.header("Data Science / Data Analysis Skills Wheel:")
     st.image("DS-Wheel.jpg")
 
 with col3:
