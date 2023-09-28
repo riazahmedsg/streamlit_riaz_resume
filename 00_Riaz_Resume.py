@@ -11,7 +11,7 @@ from prfdata import *
 # 
 
 st.set_page_config(
-    page_title="Riaz Ahmed Resume",
+    page_title="Riaz Ahmed Profile",
     page_icon="👋",
     layout="wide"
 )
