@@ -57,7 +57,7 @@ st.sidebar.markdown("## [Sample ML App](%s)" % ml_apps)
 
 # st.sidebar.markdown('1. First item \n2. Second item \n3. Third item')
 # Connect Using email:
-st.sidebar.write('### Wish to Connect (email):')
+# st.sidebar.write('### Wish to Connect (email):')
 # st.sidebar.caption('Wish to connect?')
 # st.sidebar.write('📧: riazahmedsg@iconixvav.com')
 st.sidebar.write('### Email Me: riazahmedsg@iconixvav.com')
