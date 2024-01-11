@@ -66,7 +66,7 @@ st.sidebar.write('### Email Me: riazahmedsg@iconixvav.com')
 # st.sidebar.write('### Wish to Connect (ML WebSite):')
 
 url = "https://sites.google.com/iconixvav.com/machinelearning/home"
-st.sidebar.markdown("## [Wish to Connect (My ML WebSite):](%s)" % url)
+st.sidebar.markdown("## [Visit My ML WebSite):](%s)" % url)
 
 # st.sidebar.caption('Wish to connect?')
 # st.sidebar.write('📧: https://sites.google.com/iconixvav.com/machinelearning/home')
