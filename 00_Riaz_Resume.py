@@ -297,7 +297,7 @@ fig = go.Figure(data=[go.Table(
                fill_color='lavender',
                align='left',height=40,font_size=17))])
 
-fig.update_layout(width=850, height=600)
+fig.update_layout(width=850, height=650)
 st.plotly_chart(fig)
 
 
