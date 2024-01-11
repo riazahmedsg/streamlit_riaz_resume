@@ -61,7 +61,7 @@ st.sidebar.write('### Wish to Connect (email):')
 # st.sidebar.caption('Wish to connect?')
 st.sidebar.write('📧: riazahmedsg@iconixvav.com')
 
-st.link_button("Email Me!", "riazahmedsg@iconixvav.com")
+st.sidebar.link_button("Email Me!", "emailto:riazahmedsg@iconixvav.com")
 
 
 ### Connect Using ML Website
