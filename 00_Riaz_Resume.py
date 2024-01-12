@@ -18,10 +18,10 @@ st.set_page_config(
 
 st.title('Riaz Ahmed - Profile')
 st.header('Objective: To Craft The Future Of Data Science And Machine Learning') 
-st.markdown("Open to **Remote / Hybrid** opportunities")
 st.subheader('Open to Remote / Hybrid opportunities')
 st.write('   ')
-st.header('Profile:  Machine Learning Engineer (Skilled in MLOps); Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) & Python')
+st.header('Profile: ')  
+st.subheader('Machine Learning Engineer (Skilled in MLOps); Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) & Python')
 
 st.header('Profile Summary:')
 
