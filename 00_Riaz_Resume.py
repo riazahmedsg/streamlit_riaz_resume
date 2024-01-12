@@ -17,7 +17,8 @@ st.set_page_config(
 )
 
 st.title('Riaz Ahmed - Profile')
-st.header('Objective:    To Craft The Future Of Data Science And Machine Learning') 
+st.header('Objective: ')   
+st.subheader('To Craft The Future Of Data Science And Machine Learning') 
 st.subheader('Open to Remote / Hybrid opportunities')
 st.write('   ')
 st.header('Profile: ')  
