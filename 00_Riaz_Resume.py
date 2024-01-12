@@ -20,7 +20,7 @@ st.title('Riaz Ahmed - Profile')
 
 st.header('Objective: To Craft The Future Of Data Science And Machine Learning')  
 
-st.subheader('### Profile:  Machine Learning Engineer (Skilled in MLOps); Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) & Python - Open to Remote / Hybrid opportunities')
+st.subheader('Profile:  Machine Learning Engineer (Skilled in MLOps); Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) & Python - Open to Remote / Hybrid opportunities')
 
 st.header('Profile Summary:')
 
