@@ -19,6 +19,7 @@ st.set_page_config(
 st.title('Riaz Ahmed - Profile')
 
 st.write('### Objective:  To Craft The Future Of Data Science And Machine Learning')
+st.write('### Profile:  Machine Learning Engineer (Skilled in MLOps); Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) & Python - Open to Remote / Hybrid opportunities')
 
 st.write('#### Objective:  Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) and Python Development - Open to Remote / Hybrid opportunities')
 
