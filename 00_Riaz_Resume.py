@@ -18,17 +18,11 @@ st.set_page_config(
 
 st.title('Riaz Ahmed - Profile')
 
-st.subheader('Objective: To Craft The Future Of Data Science And Machine Learning')  
+st.header('Objective: To Craft The Future Of Data Science And Machine Learning')  
 
-
-
-st.write('### Profile:  Machine Learning Engineer (Skilled in MLOps); Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) & Python - Open to Remote / Hybrid opportunities')
-
-st.write('#### Objective:  Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) and Python Development - Open to Remote / Hybrid opportunities')
+st.subheader('### Profile:  Machine Learning Engineer (Skilled in MLOps); Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) & Python - Open to Remote / Hybrid opportunities')
 
 st.header('Profile Summary:')
-
-
 
 components.html('''
 <h2 align="justify" style="font-weight:normal"> Motivated Python Developer (Full stack - Using Anvil Python ) & Data Scientist (Python & ML) skilled in 1) <b>Data Analysis</b> & Predictive Data Analysis (using <b>Machine Learning algorithms</b>), 2) Python Data Analysis libraries (Pandas, Numpy, Plotly, Scikit-learn, TensorFlow, Seaborn, Altair, Bokeh, Pyplot, Graphviz, etc.), 3) <b>Tools:</b> ChatGPT, PyCharm, Jupyter Notebook, JupyterLab, SageMaker Studio Lab, Google Colab, 4) Streamlit (to Develop shareable web apps in minutes), 5) Claris FileMaker Rapid Application Development, 6) <b>SQL & Data Modeling</b> 7) Agile Software Development, 8) Software Prototyping & StoryBoarding, 9) UML & BPMN, 10) Software Testing & Quality Assurance, 11) Domain Knowledge: a) Health Care, b) Health Informatics c) Business Apps 12) Familiar with R 13) <b>Tutoring and Training:</b> Agile Software Development, Databases, QA & Testing, Python (5+ Years), 14) Power BI, Tableau </h2>
