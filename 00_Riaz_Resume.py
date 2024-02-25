@@ -23,7 +23,7 @@ st.subheader('Open to Remote / Hybrid opportunities')
 st.write('   ')
 st.header('Profile: ')  
 #st.subheader('Machine Learning Engineer (Skilled in MLOps); Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) & Python')
-st.subheader('Machine Learning (AI) Engineer, Data Scientist & Google AppSheet Mobile Apps Developer & Trainer; Software Solution Developer & Trainer in Data Science (using Python, Machine Learning, SQL) & Python')
+st.subheader('Machine Learning (AI) Engineer, Data Scientist & Google AppSheet Mobile Apps Developer & Trainer; Software Solution Developer, SQL, Data Modeling expert & Trainer')
 # Machine Learning (AI) Engineer, Data Scientist & AppSheet Developer
 st.header('Profile Summary:')
 
