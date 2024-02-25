@@ -48,7 +48,8 @@ st.sidebar.markdown("## [Linkedin Profile](%s)" % url)
 
 
 # resume = "https://docs.google.com/document/d/1k2JGHInYY8nxvJFTrFKJOM-YOTHyFu_TJ1QT-M1Iw34/edit?usp=sharing"
-resume = "https://drive.google.com/file/d/1oDyC_gyW1nEgakgV3SdCE-0Xr_SnuSqH/view?usp=sharing"
+resume = "https://drive.google.com/file/d/1R-LRJ1v66fCqQ_EwDwl6XUoMd_FRo7-c/view?usp=sharing"
+# https://drive.google.com/file/d/1R-LRJ1v66fCqQ_EwDwl6XUoMd_FRo7-c/view?usp=sharing
 #resume = "https://drive.google.com/file/d/18ABup7AH5t6W-t4DhMJutxOor33duZEc/view?usp=sharing"
 st.sidebar.markdown("## [Download Resume](%s)" % resume)
 
