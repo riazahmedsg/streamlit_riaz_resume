@@ -28,7 +28,7 @@ st.subheader('Machine Learning (AI) Engineer, Data Scientist; Google AppSheet Mo
 st.header('Profile Summary:')
 
 components.html('''
-<h2 align="justify" style="font-weight:normal"> Motivated Python Developer (Full stack - Using Anvil Python ) & Data Scientist (Python & ML) skilled in 1) <b>Data Analysis</b> & Predictive Data Analysis (using <b>Machine Learning algorithms</b>), 2) Python Data Analysis libraries (Pandas, Numpy, Plotly, Scikit-learn, TensorFlow, Seaborn, Altair, Bokeh, Pyplot, Graphviz, etc.), 3) <b>Tools:</b> ChatGPT, PyCharm, Jupyter Notebook, JupyterLab, SageMaker Studio Lab, Google Colab, 4) Streamlit (to Develop shareable web apps in minutes), 5) <b>Google AppSheet Mobile Apps Developer & Trainer</b> 6) Claris FileMaker Rapid Application Development, 7) <b>SQL & Data Modeling</b> 8) Agile Software Development, 9) Software Prototyping & StoryBoarding, 10) UML & BPMN, 11) Software Testing & Quality Assurance, 12) Domain Knowledge: a) Health Care, b) Health Informatics c) Business Apps 12) Familiar with R 13) Agile Software Development, Databases, QA & Testing, Python (5+ Years), 14) MS Power Apps & Power BI, Tableau </h2>
+<h2 align="justify" style="font-weight:normal"> Motivated Python Developer (Full stack - Using Anvil Python ) & Data Scientist (Python & ML) skilled in 1) <b>Data Analysis</b> & Predictive Data Analysis (using <b>Machine Learning algorithms</b>), 2) Python Data Analysis libraries (Pandas, Numpy, Plotly, Scikit-learn, TensorFlow, Seaborn, Altair, Bokeh, Pyplot, Graphviz, etc.), 3) <b>Tools:</b> ChatGPT, PyCharm, Jupyter Notebook, JupyterLab, SageMaker Studio Lab, Google Colab, 4) Streamlit (to Develop shareable web apps in minutes), 5) <b>Google AppSheet Mobile Apps Developer & Trainer</b> 6) Claris FileMaker Rapid Application Development, 7) <b>SQL & Data Modeling</b> 8) Agile Software Development, 9) Software Prototyping & StoryBoarding, 10) UML & BPMN, 11) Software Testing & Quality Assurance, 12) Domain Knowledge: a) Health Care, b) Health Informatics c) Business Apps 12) Familiar with R 13) Agile Software Development, Databases, QA & Testing, Python (5+ Years), 14) BI and Analytics with Google Looker Studio, Tableau </h2>
 ''',
 height=345)
 
@@ -124,6 +124,7 @@ with st.expander("Click + to expand: ", expanded = False):
     <h3 align="justify" style="font-weight:normal">
     <ol>
     <li>Data Analysis - Pandas, Numpy, Plotly, Scikit-learn, Seaborn, etc.</li>
+    <li>Google AppSheet Mobile Apps Developer & Trainer, BI and Analytics with Looker Studio</li>    
     <li>Machine Learning Algorithms <i>Scikit-Learn</i> and <i>TensorFlow</i></li>
     <li>Python-Streamlit (to Develop shareable web apps in minutes)</li>
     <li>FileMaker RAD Development (FileMaker Rel. 12 - 19) -- (7+ Years)</li>
